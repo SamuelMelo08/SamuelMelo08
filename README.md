@@ -2,7 +2,7 @@
 
 Tenho 17 anos, sou desenvolvedor front-end com foco em construção de interfaces modernas usando React, Next.js e TypeScript. Tenho interesse por tecnologia, criar interfaces interessantes e tornar a programação divertida com desenvolvimento de games. Atualmente estou expandindo meu conhecimento, aprimorando minhas habilidades e desenvolvendo projetos para ganhar experiência prática no mercado. 
 
-<br>
+##
 
 ### 🛠 Tecnologias que uso
 
