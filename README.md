@@ -18,6 +18,8 @@ Tenho 17 anos, sou desenvolvedor front-end com foco em construção de interface
   &nbsp;&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="50" />
   &nbsp;&nbsp;
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" />
+  &nbsp;&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="50" />
 
 </div>
