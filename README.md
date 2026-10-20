@@ -9,16 +9,30 @@ Tenho interesse especial em **arquitetura de software, organização de código,
 
 ##
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
 ### 🛠 Tecnologias que uso
 
-<div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,py,postgres,react,nextjs,nodejs,tailwind,prisma,docker,git,github,linux,vite,figma,vscode,godot&theme=dark&perline=19"
-    alt="Tecnologias e ferramentas"
-    width="100%"
-  />
-</div>
+#### Linguagens e tecnologias
 
+[![Linguagens e tecnologias](https://skillicons.dev/icons?i=html,css,js,ts,py,postgres&theme=dark)](https://skillicons.dev)
+
+#### Frameworks e bibliotecas
+
+[![Frameworks e bibliotecas](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,prisma&theme=dark)](https://skillicons.dev)
+
+#### Ferramentas e ambiente
+
+[![Ferramentas e ambiente](https://skillicons.dev/icons?i=docker,git,github,linux,vite,figma,vscode,godot&theme=dark)](https://skillicons.dev)
 
 ##
 
