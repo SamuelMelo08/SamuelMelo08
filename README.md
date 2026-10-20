@@ -9,14 +9,16 @@ Tenho interesse especial em **arquitetura de software, organização de código,
 
 ##
 
-
 ### 🛠 Tecnologias que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,postgres,react,nextjs,nodejs&theme=dark" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" height="40" width="40" alt="Fastify" />
-  <img src="https://skillicons.dev/icons?i=tailwind,prisma,docker,git,github,linux,vite,figma,vscode,godot&theme=dark" height="40" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,py,postgres,react,nextjs,nodejs,tailwind,prisma,docker,git,github,linux,vite,figma,vscode,godot&theme=dark&perline=19"
+    alt="Tecnologias e ferramentas"
+    width="100%"
+  />
 </div>
+
 
 ##
 
